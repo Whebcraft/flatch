@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wallpapers">Wallpapers</string>
-    <string name="collections">Collections</string>
+    <string name="collections">Category</string>
     <string name="favorites">Favorites</string>
     <string name="all">All</string>
 
     <string name="loading">Loading…</string>
     <string name="no_wallpapers_found">Loading Wallpapers....</string>
-    <string name="no_collections_found">No collections found!</string>
+    <string name="no_collections_found">No categories found!</string>
     <string name="no_favorites_found">No favorites found!</string>
 
     <string name="details">Details</string>
@@ -75,7 +75,7 @@
 
     <string name="search_x">Search…</string>
     <string name="search_wallpapers">Search wallpapers…</string>
-    <string name="search_collections">Search collections…</string>
+    <string name="search_collections">Search categories…</string>
     <string name="search_favorites">Search favorites…</string>
 
     <string name="prevent_download_title">Downloads locked</string>
