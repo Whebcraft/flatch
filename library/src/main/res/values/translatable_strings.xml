@@ -6,7 +6,7 @@
     <string name="all">All</string>
 
     <string name="loading">Loading…</string>
-    <string name="no_wallpapers_found">No wallpapers found!</string>
+    <string name="no_wallpapers_found">Loading Wallpapers....</string>
     <string name="no_collections_found">No collections found!</string>
     <string name="no_favorites_found">No favorites found!</string>
 
@@ -121,7 +121,7 @@
     <string name="terms_conditions">Terms and Conditions</string>
 
     <string name="dashboard">Developers</string>
-    <string name="jahir_description">Software Developer</string>
+    <string name="jahir_description">App Developer</string>
     <string name="eduardo_description">UI/UX Expert</string>
 
     <string name="donate_success_title">Thank you</string>
